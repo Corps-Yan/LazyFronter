@@ -231,6 +231,8 @@
 
 [Highcharts](https://api.highcharts.com/highcharts/#)
 
+[SandDance](https://github.com/microsoft/SandDance) - 微软出品，必属精品？
+
 [roughViz.js](https://github.com/jwilber/roughViz#API) - 手绘风图表库
 
 #### 拓扑图

@@ -106,6 +106,18 @@
 
 [qs.js](https://github.com/ljharb/qs) - 更好的处理url参数
 
+#### ID生成
+
+[uuid](https://github.com/uuidjs/uuid)
+
+[Nano ID](https://github.com/ai/nanoid)
+
+[shortid](https://github.com/dylang/shortid)
+
+[uniqid](https://github.com/adamhalasz/uniqid)
+
+[yeast](https://github.com/unshiftio/yeast)
+
 #### 文件保存
 
 [file-saver](https://github.com/eligrey/FileSaver.js#readme)
